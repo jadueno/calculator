@@ -4,6 +4,6 @@ Building a calculator with React JS, using the eval function and reacts state ho
 
 ## Steps
 
-Clone repository
-Install packpages with 'npm install'
-Run project with 'npm run start'
+- Clone repository
+- Install packpages with 'npm install'
+- Run project with 'npm run start'
